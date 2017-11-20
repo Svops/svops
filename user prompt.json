@@ -510,6 +510,6 @@
     "create_time": "2017-11-20T21:04:15.345806+00:00",
     "draft_mode": false,
     "labels": [
-        "*"
+        "generator"
     ]
 }
