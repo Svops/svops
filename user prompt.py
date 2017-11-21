@@ -20,7 +20,7 @@ def prompt_1(action=None, success=None, container=None, results=None, handle=Non
     user = "admin"
     message = """What would you like to do here ?"""
 
-    # response options
+    # response options - testing phantom git modification
     options = {
         "type": "list",
         "choices": [
